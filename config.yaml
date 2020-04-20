@@ -1,16 +1,16 @@
 baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
+languageCode: "ar-sa"
+title: "فضاء عبدالله"
 pygmentsstyle: 'monokai'
 
 # Theme settings
-theme: novela
+theme: hugo-theme-novela
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
+  twitter: "http://abd.la/tw"
+# github: "#"
+# instagram: "#"
+# linkedin: "abd.la/in"
   dribbble: "#"
   youtube: "#"
 taxonomies:

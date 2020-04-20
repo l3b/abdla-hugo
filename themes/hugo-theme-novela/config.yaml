@@ -1,0 +1,4 @@
+baseURL: "https://example.com"
+languageCode: "ar-sa"
+title: "Hugo Novela"
+pygmentsstyle: 'monokai'

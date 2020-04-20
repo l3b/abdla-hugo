@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="logo.svg"
+   id="svg127"
+   version="1.1"
+   className="Logo__Desktop"
+   fill="none"
+   viewBox="0 0 192 23"
+   height="23"
+   width="192">
+  <metadata
+     id="metadata131">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g120"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="13.762084"
+     inkscape:cx="113.91345"
+     inkscape:zoom="3.16953"
+     showgrid="false"
+     id="namedview129"
+     inkscape:window-height="831"
+     inkscape:window-width="1541"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g120"
+     clipPath="url(#clip0)">
+    <text
+       transform="scale(1.2609214,0.79307084)"
+       id="text135"
+       y="18.423702"
+       x="25.958361"
+       style="font-style:normal;font-weight:normal;font-size:22.1087px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.829077"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AL-Fares;-inkscape-font-specification:AL-Fares;stroke-width:0.829077"
+         y="18.423702"
+         x="25.958361"
+         id="tspan133"
+         sodipodi:role="line">عبدالله الثاني</tspan></text>
+  </g>
+  <defs
+     id="defs125">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect122"
+         fill="white"
+         height="23"
+         width="191.156" />
+    </clipPath>
+  </defs>
+</svg>

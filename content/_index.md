@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: حياكم الله في فضاء عبدالله
   maxWidthPX: 652
+  languagedirection: "rtl"
 ---
+
