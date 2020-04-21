@@ -2,6 +2,7 @@ baseURL: "https://example.com"
 languageCode: "ar-sa"
 title: "فضاء عبدالله"
 pygmentsstyle: 'monokai'
+disqusShortname: abdla
 
 # Theme settings
 theme: hugo-theme-novela
