@@ -11,8 +11,10 @@
     <article  id="articleContent" class="post-content" style="position:relative;">
         {{ .Content }}
     </article>
-
-    {{ template "_internal/disqus.html" . }}
+    <div class="section">
+        {{ template "_internal/disqus.html" . }}
+    </div>
+    
 
 
     {{ partial "article/next.html" . }}

@@ -9,10 +9,10 @@ social:
     url: https://abd.la/in
   - title: github
     url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
----
+  - title: youtube
+    url: https://www.youtube.com/althani88
+  - title: facebook
+    url: https://www.facebook.com/abdullah.althani
+  - title: instagram
+    url: https://www.instagram.com/aalthani
+--- 

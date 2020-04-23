@@ -1,18 +1,22 @@
-baseURL: "https://hopeful-knuth-b74bfa.netlify.app/"
+baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
 languageCode: "ar-sa"
 title: "فضاء عبدالله"
 pygmentsstyle: 'monokai'
 disqusShortname: abdla
+#links
+permalinks:
+  post: /مقالات/:title/
+  authors: /الكاتب/:title/
 
 # Theme settings
 theme: hugo-theme-novela
 paginate: 6
 social:
-  twitter: "http://abd.la/tw"
-# github: "#"
+  twitter: "https://twitter.com/AAThani"
+  github: "http://github.com/l3b"
 # instagram: "#"
-# linkedin: "abd.la/in"
+  linkedin: "https://https://www.linkedin.com/in/abdullah-al-thani/"
   dribbble: "#"
-  youtube: "#"
+ # youtube: "#"
 taxonomies:
   author: authors
