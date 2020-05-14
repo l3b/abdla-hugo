@@ -3,6 +3,7 @@ languageCode: "ar-sa"
 title: "فضاء عبدالله"
 pygmentsstyle: 'monokai'
 disqusShortname: abdla
+googleAnalytics: UA-166633314-1
 #links
 permalinks:
   post: /مقالات/:title/
