@@ -2,9 +2,10 @@
 theme: zen
 languageCode: "ar-SA"
 defaultContentLanguage: ar
+baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
 languages:
   ar:
-    baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
+    # baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
     languageName: عربي
     languagedirection: rtl
     title: فضاء عبدالله
@@ -14,7 +15,7 @@ languages:
       post: /مقالات/:title/
       authors: /الكاتب/:title/
   en:
-    baseURL: "https://abdullahalthani.com"
+    # baseURL: "https://abdullahalthani.com"
     params:
     languageName: English
     title: Abdullah's space
