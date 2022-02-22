@@ -1,23 +1,44 @@
-baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
-languageCode: "ar-sa"
-title: "فضاء عبدالله"
+
+theme: zen
+languageCode: "ar-SA"
+defaultContentLanguage: ar
+languages:
+  ar:
+    baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
+    languageName: عربي
+    languagedirection: rtl
+    title: فضاء عبدالله
+    weight: 1
+    #links
+    permalinks:
+      post: /مقالات/:title/
+      authors: /الكاتب/:title/
+  en:
+    baseURL: "https://abdullahalthani.com"
+    params:
+    languageName: English
+    title: Abdullah's space
+    weight: 2
+    permalinks:
+      post: /posts/:title/
+      authors: /author/:title/
+
 pygmentsstyle: 'monokai'
 disqusShortname: abdla
 googleAnalytics: UA-166633314-1
-#links
-permalinks:
-  post: /مقالات/:title/
-  authors: /الكاتب/:title/
 
-# Theme settings
-theme: hugo-theme-novela
-paginate: 6
-social:
-  twitter: "https://twitter.com/AAThani"
-  github: "http://github.com/l3b"
-# instagram: "#"
-  linkedin: "https://https://www.linkedin.com/in/abdullah-al-thani/"
-  dribbble: "#"
- # youtube: "#"
-taxonomies:
-  author: authors
+
+# # Theme settings
+# theme: hugo-theme-novela
+# paginate: 6
+# social:
+#   twitter: "https://twitter.com/AAThani"
+#   github: "http://github.com/l3b"
+# # instagram: "#"
+#   linkedin: "https://https://www.linkedin.com/in/abdullah-al-thani/"
+#   dribbble: "#"
+#  # youtube: "#"
+# taxonomies:
+#   author: authors
+
+
