@@ -3,6 +3,7 @@ theme: zen
 languageCode: "ar-SA"
 defaultContentLanguage: ar
 baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
+logopath: images/22.svg
 languages:
   ar:
     # baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
@@ -23,6 +24,7 @@ languages:
     permalinks:
       post: /posts/:title/
       authors: /author/:title/
+    languagedirection: ltr
 
 pygmentsstyle: 'monokai'
 disqusShortname: abdla
