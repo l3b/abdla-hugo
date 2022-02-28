@@ -481,7 +481,7 @@ menu {
 
 @media (min-width: 666px) {
   .header__region {
-    margin-left: auto; } }
+    margin: auto; } }
 
 .hidden,
 html.nojs .nojs-hidden,

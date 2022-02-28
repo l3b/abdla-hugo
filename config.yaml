@@ -4,17 +4,21 @@ languageCode: "ar-SA"
 defaultContentLanguage: ar
 baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
 logopath: images/22.svg
+enableEmoji: true
+
 languages:
   ar:
     # baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
+    params:
     languageName: عربي
-    languagedirection: rtl
+    languagedirection: "rtl"
     title: فضاء عبدالله
     weight: 1
     #links
     permalinks:
       post: /مقالات/:title/
-      authors: /الكاتب/:title/
+      about: /:title
+      # authors: /الكاتب/:title/
   en:
     # baseURL: "https://abdullahalthani.com"
     params:
@@ -23,8 +27,8 @@ languages:
     weight: 2
     permalinks:
       post: /posts/:title/
-      authors: /author/:title/
-    languagedirection: ltr
+      # authors: /author/:title/
+    languagedirection: "ltr"
 
 pygmentsstyle: 'monokai'
 disqusShortname: abdla
@@ -44,4 +48,43 @@ googleAnalytics: UA-166633314-1
 # taxonomies:
 #   author: authors
 
+# paginate: 10
+# paginatePath: "page"
+# rssLimit: 20
+# author:
+#   name: "Abdullah AlThani"
+#   url: "/about"
+#   avatar: "/content/images/hiking profile-small.jpg"
 
+# outputFormats:
+#   SearchIndex:
+#     mediaType: "application/json"
+#     baseName: "searchindex"
+#     isPlainText: true
+#     notAlternative: true
+
+# outputs:
+#   home: ["HTML","RSS", "JSON", "SearchIndex"]
+#   section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "hello@thani.me"
+  logo: false
+  # copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  description: "Abdullah's Space"
+  dateformat: "2 January, 2006"
+  favicon: "apple-touch-icon.png"
+  feedlinks: true
+  icon: "apple-touch-icon.png"
+  image: "apple-touch-icon.png"
+  imageMaxWidth: 400
+  mobileMenu: true
+  poweredby: false
+  sidebar: false
+  submitted: true
+  Subtitle: test
+  author: Abdullah
+  # mainSections:             # The sections you want to have listed on the front page.
+  #   - "section1"            # Default to the section with most content if not set.
+  #   - "section2"            # Set to empty if no section should be listed.
+  #   - "about"
