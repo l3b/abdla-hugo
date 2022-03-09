@@ -1,5 +1,5 @@
 
-theme: zen
+theme: anatole
 languageCode: "ar-SA"
 defaultContentLanguage: ar
 baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
@@ -12,7 +12,10 @@ languages:
     params:
     languageName: عربي
     languagedirection: "rtl"
+    languageCode: ar-SA
     title: فضاء عبدالله
+    Author: عبدالله الثاني
+    description: "عالم من خيالي"
     weight: 1
     #links
     permalinks:
@@ -23,7 +26,10 @@ languages:
     # baseURL: "https://abdullahalthani.com"
     params:
     languageName: English
+    languageCode: en
     title: Abdullah's space
+    Author: Abdullah AlThani
+    description: "A world of my imagination"
     weight: 2
     permalinks:
       post: /posts/:title/
@@ -71,7 +77,6 @@ params:
   contact: "hello@thani.me"
   logo: false
   # copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
-  description: "Abdullah's Space"
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
@@ -83,7 +88,7 @@ params:
   sidebar: false
   submitted: true
   Subtitle: test
-  author: Abdullah
+  profilePicture: "/images/22.png"
   # mainSections:             # The sections you want to have listed on the front page.
   #   - "section1"            # Default to the section with most content if not set.
   #   - "section2"            # Set to empty if no section should be listed.
