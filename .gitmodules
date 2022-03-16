@@ -7,3 +7,6 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/anatole-aat"]
+	path = themes/anatole-aat
+	url = https://github.com/l3b/anatole.git
