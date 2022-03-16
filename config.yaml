@@ -3,7 +3,7 @@ theme: anatole
 languageCode: "ar-SA"
 defaultContentLanguage: ar
 baseURL: "https://xn----ymcbabvy2f0eac0ah2c.xn--mgberp4a5d4ar"
-logopath: images/22.svg
+logopath: images/aat-logo.svg
 enableEmoji: true
 
 languages:
@@ -88,7 +88,7 @@ params:
   sidebar: false
   submitted: true
   Subtitle: test
-  profilePicture: "/images/22.png"
+  profilePicture: "/images/aat-logo.svg"
   # mainSections:             # The sections you want to have listed on the front page.
   #   - "section1"            # Default to the section with most content if not set.
   #   - "section2"            # Set to empty if no section should be listed.
