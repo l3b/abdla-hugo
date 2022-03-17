@@ -1,0 +1,17 @@
+main:
+  - name: الرئيسية
+    identifier: main
+    weight: 100
+    url: /
+  - name: المقالات
+    weight: 200
+    identifier: posts
+    url: /مقالات/
+  - name: عني
+    weight: 300
+    identifier: about
+    url: /عني/
+  - name: تواصل معي
+    weight: 400
+    identifier: contact
+    url: /تواصل/

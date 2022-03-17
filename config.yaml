@@ -21,6 +21,7 @@ languages:
       post: /مقالات/:title/
       about: /:title
       # authors: /الكاتب/:title/
+
   en:
     # baseURL: "https://abdullahalthani.com"
     params:
@@ -92,3 +93,7 @@ params:
   #   - "section1"            # Default to the section with most content if not set.
   #   - "section2"            # Set to empty if no section should be listed.
   #   - "about"
+
+
+
+
